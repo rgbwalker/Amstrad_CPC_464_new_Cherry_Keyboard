@@ -48,7 +48,11 @@ En la página 11 del manual encontrareis el esquema de la matriz del teclado.
 
 Tras semanas de pruebas, pruebas y más pruebas con el propio programa, tras varias versiones y más versiones, comprobaciones y más comprobaciones, además de solucionar dudas y errores, por fin obtuve una versión final que parecía funcional. Y aquí está el resultado.
 
-Eso sí, he de decir que no habría podido sin la ayuda de otro compañero de Telegram, Abalore, quien también me animó y aconsejó con el asunto. Y a quien agradezco desde aquí su apoyo y ayuda.
+Eso sí, he de decir que no habría podido sin la ayuda de otro compañero de Telegram, Abalore, quien también me animó y aconsejó con el asunto, el cual posee un interesante canal de YouTube donde muestra algunos de sus proyectos:
+
+https://www.youtube.com/@abalore
+
+Y a quien agradezco desde aquí su apoyo y ayuda.
 
 # Objetivo.
 
@@ -205,7 +209,11 @@ On page 11 of the manual you will find the schematic of the keyboard matrix.
 
 After weeks of testing, testing, and testing with the program itself, after several versions and more versions, checks and more checks, as well as fixing doubts and bugs, I finally got a final version that looked functional. And here's the result.
 
-Of course, I have to say that I would not have been able to do it without the help of another Telegram colleague, Abalore, who also encouraged and advised me on the matter. And whom I thank from here for their support and help.
+Of course, I have to say that I would not have been able to do it without the help of another Telegram colleague, Abalore, who also encouraged and advised me on the matter, he has an interesting YouTube channel where he shows some of his projects:
+
+https://www.youtube.com/@abalore
+
+And whom I thank from here for their support and help.
 
 
 # Objective.
