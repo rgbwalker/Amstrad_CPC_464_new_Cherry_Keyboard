@@ -12,9 +12,9 @@ Mechanical PCB keyboard for CPC 464 with Cherry switches
 
 ![image](/_IMAGENES_/Teclado_2D_V1_0.jpg)
 
-Fue en marzo de 2024 cuando acudí por primera vez a “Retro Parla”. Para quien no conozca este evento, es una reunión de usuarios de “informática retro” al sur de Madrid, que animo a que todo el mundo valla.
+Fue en marzo de 2024 cuando acudí por primera vez a “Retro Parla”. Para quien no conozca este evento, es una reunión de usuarios de “informática retro” al sur de Madrid, a la que animo a ir a todo el mundo.
 
-Por ejemplo, entre muchas de las cosas que descubrí había un Amstrad CPC 464 montado a mano desde cero. Todos los componentes estaban soldados y eran nuevos en una PCB recreada basada en el CPC 464 “teclas altas”, con una carcasa artesanal fabricada con metacrilato transparente. Por su parte, el teclado estaba hecho a base de teclas tipo Cherry MX, cableadas y montadas sobre un bastidor realizado en impresora 3D a medida. Incluía un cpcduino con sus correspondientes pantalla y teclas de control, que suplía al casette original. Su propio circuito de audio, con interruptor, altavoz y control de volumen.
+Por ejemplo, entre muchas de las cosas que descubrí había un Amstrad CPC 464 montado a mano desde cero. Todos los componentes eran nuevos y estaban soldados a mano en una PCB recreada basada en el CPC 464 “teclas altas”, con una carcasa artesanal fabricada con metacrilato transparente. Por su parte, el teclado estaba hecho a base de teclas tipo Cherry MX, cableadas y montadas sobre un bastidor realizado en impresora 3D a medida. Incluía un cpcduino con sus correspondientes pantalla y teclas de control, que suplía al casette original. Su propio circuito de audio, con interruptor, altavoz y control de volumen.
 
 Todo aquello funcionaba a la perfección, este Amstrad tan impresionnte era obra de Manuel Cuenca,  (@manuelcuencammchip).
 
@@ -36,9 +36,9 @@ Llegó entonces el momento de enfrentarse a la fabricación del teclado. Pero, c
 
 Y tras buscar alternativas, preguntando aquí y allá, terminé por decidirme (o más bien debería decir aventurarme a probar suerte… jejeje) a hacer yo mismo una PCB para el teclado del CPC 464.
 
-En este punto he de agradecer al usuario de Telegram llamado Mac, que me habló de EasyEda y me animó a hacer este proyecto. EasyEda es la aplicación de diseño online del fabricante PCBs, (entre otras múltiples cosas). Para poner las cosas en contexto, aquí hay que decir que NUNCA ANTES había diseñado una PCB ni tenía experiencia previa en abordar el diseño de toda una placa. Sí que me había aventurado a alguna prueba con KiKad, aunque en su momento me pareció algo mas complicado de lo que ha resultado EasyEda. Finalmente, descargué la versión offline de la aplicación y me puse a investigar cómo era el proceso.
+En este punto he de agradecer al usuario de Telegram llamado Mac, que me habló de EasyEda y me animó a hacer este proyecto. EasyEda es la aplicación de diseño online del fabricante PCBs, JLCPCB (entre otras múltiples cosas). Para poner las cosas en contexto, aquí hay que decir que NUNCA ANTES había diseñado una PCB ni tenía experiencia previa en abordar el diseño de toda una placa. Sí que me había aventurado a alguna prueba con KiKad, aunque en su momento me pareció algo mas complicado de lo que ha resultado EasyEda. Finalmente, descargué la versión offline de la aplicación y me puse a investigar cómo era el proceso.
 
-Pude comprobar el esquema eléctrico de la matriz del teclado en el Manual de Servicio del CPC 464, el cual podéis encontrar por la red. En cpcwiki se puede descargar del siguiente enlace:
+Pude consultar el esquema eléctrico de la matriz del teclado en el Manual de Servicio del CPC 464, el cual podéis encontrar por la red. En cpcwiki se puede descargar del siguiente enlace:
 
 https://www.cpcwiki.eu/index.php/Service_Manuals
 
@@ -56,7 +56,7 @@ Y a quien agradezco desde aquí su apoyo y ayuda.
 
 # Objetivo.
 
-Este NO es un teclado pensado para SUSTITUIR el teclado original de un CPC 464. Y no lo es por varios motivos. El principal objetivo poder darle su propio teclado a un CPC 464 realizado desde cero, con lo cual no tiene por qué ser “idéntico milimétricamente” al original. De hecho, con componentes estándar del mercado NO PUEDE SER IGUAL.
+Este NO es un teclado pensado para SUSTITUIR el teclado original de un CPC 464. Y no lo es por varios motivos. El principal objetivo es poder darle su propio teclado a un CPC 464 realizado desde cero, con lo cual no tiene por qué ser “idéntico milimétricamente” al original. De hecho, con componentes estándar del mercado NO PUEDE SER IGUAL.
 
 Entre las diferencias de este teclado con el original tenemos:
 
@@ -73,7 +73,7 @@ Aun así, ¿podría usarse en un CPC 464 original?
 
 El conector que va a la PCB principal es el necesario para la versión recreada por Bob´s Bits, que como decía, es como los primeros modelos de “Teclas altas”: con un conector de 20 pines en una sola línea, mientras que las posteriores versiones tienen dos líneas de fajas tipo “flex”.
 
-Todo esto significa que, si lo vas a usar en una placa CPC 464 “Teclas altas”, eléctricamente funcionará, (aunque no encaje en la carcasa). Pero, si los vas a usar en una de las placas posteriores (yo no lo he hecho), con conector en dos líneas tipo “flex”, sería necesario hacer un adaptador entre ambos conectores. En este caso sería cuestión de ver dónde va cada contacto en el conector de 20 pines en una sola línea, o “20x1” para redirigirlo donde tenga que ser en el conector de 2 líneas de “flex”. Pero es algo que yo, repito, no he probado.
+Todo esto significa que, si lo vas a usar en una placa CPC 464 “Teclas altas”, eléctricamente funcionará, (aunque no encaje en la carcasa). Pero, si lo vas a usar en una de las placas posteriores (yo no lo he hecho), con conector en dos líneas tipo “flex”, sería necesario hacer un adaptador entre ambos conectores. En este caso sería cuestión de ver dónde va cada pista en el conector de 20 pines de una sola línea, o “20x1” para redirigirlo donde tenga que ser en el conector de 2 líneas de “flex”. Pero es algo que yo, repito, no he probado.
 
 # Para fabricarlo.
 
@@ -172,11 +172,11 @@ A Abalore, por su amabilidad y por resolver más de una duda que surgió durante
 
 ![image](/_IMAGENES_/Teclado_2D_V1_0.jpg)
 
-It was in March 2024 when I went to "Retro Parla" for the first time. For those who do not know this event, it is a meeting of "retro computing" users in the south of Madrid, which I encourage everyone to go.
+It was in March 2024 when I went to "Retro Parla" for the first time. For those who don´t know this event, it is a meeting of "retro computing" users in the south of Madrid, which I encourage everyone to go.
 
-For example, among many of the things I discovered was an Amstrad CPC 464 hand assembled from scratch. All components were soldered and new on a recreated PCB based on the CPC 464 "high keys", with a hand crafted enclosure made of transparent methacrylate. For its part, the keyboard was made of Cherry MX keys, wired and mounted on a frame made in a custom 3D printer. It included a cpcduino with its corresponding screen and control keys, which replaced the original casette. Its own audio circuit, with switch, speaker and volume control.
+For example, among many of the things I discovered was an Amstrad CPC 464 hand assembled from scratch. All new components were soldered by hand on a recreated PCB based on the CPC 464 "high keys", with a hand crafted enclosure made of transparent methacrylate. For its part, the keyboard was made of Cherry MX keys, wired and mounted on a frame made in a custom 3D printer. It included a cpcduino with its corresponding screen and control keys, which replaced the original casette. Its own audio circuit, with switch, speaker and volume control.
 
-All that working perfectly, this impressive Amstrad was the work of Manuel Cuenca, (@manuelcuencammchip).
+All that works fine, this impressive Amstrad was the work of Manuel Cuenca, (@manuelcuencammchip).
 
 As soon as I saw him I was interested, and I harassed Manuel Cuenca with a thousand questions, who very kindly answered. And he told me that the PCB was the work of Bob's Bits and could be obtained on tindie:
 
@@ -195,9 +195,9 @@ As a starting point, I got the PCB on the Bob's Bits tindie website, to which th
 
 Then it was time to face the manufacture of the keyboard. But, since I had no experience designing with applications and 3D printers, I ruled out the possibility of making a bracket or frame to hold the Cherry MX type switches.
 
-And after looking for alternatives, asking here and there, I ended up deciding (or rather I should say venture to try my luck... hehehe) to make a PCB for the CPC 464 keyboard.
+And after looking for alternatives, asking here and there, I finally deciding (or rather I should say venture to try my luck... hehehe) to make a PCB for the CPC 464 keyboard.
 
-At this point I have to thank the Telegram user called Mac, who told me about EasyEda and encouraged me to do this project. EasyEda is the online design application of the PCB manufacturer, (among many other things). To put things in context, here it must be said that I had NEVER BEFORE designed a PCB or had prior experience in tackling the design of an entire board. I had ventured into some tests with KiKad, although at the time it seemed a bit more complicated than EasyEda has turned out. Finally, I downloaded the offline version of the app and started researching what the process was like.
+At this point I have to thank the Telegram user called Mac, who told me about EasyEda and encouraged me to do this project. EasyEda is the online design application of the PCB manufacturer, JLCPCB (among many other things). To put things in context, here it must be said that I had NEVER BEFORE designed a PCB or had prior experience in tackling the design of an entire board. I had ventured into some tests with KiKad, although at the time it seemed a bit more complicated than EasyEda has turned out. Finally, I downloaded the offline version of the app and started researching what the process was like.
 
 I was able to check the electrical schematics of the keyboard matrix in the CPC 464 Service Manual, which you can find on the web. On cpcwiki you can download it from the following link:
 
@@ -222,16 +222,13 @@ This is NOT a keyboard intended to REPLACE the original CPC 464 keyboard. And it
 
 Among the differences between this keyboard and the original we have:
 
-
-- Compuesto de pulsadores de 2 pines tipo Cherry MX: sencillos sin luces led ni RGB y no hay membrana como en el original.
-
 - Composed of 2 pin Cherry MX type switches: simple without LED or RGB lights and there is no membrane as in the original.
 - Standard keys (caps), which means:
 	* "ENTER" key ISO format: smaller than the original, which forces the “DEL" and 	right "SHIFT" keys to be smaller than the original ones, (so that all the keys end up 	aligned without protuberances on the right side above each other).
 	* "DEL" key of 1 unit .
-	* Right"SHIFT" key, of 1.75 units.
-	* "SPACE" key of 7 units, (the original is 9 units, completely out of today's standard,
-	or at least I haven't been able to find anything of that size). This forces you to center 	the "SPACE" key and reposition the "CTRL" key.
+	* Right "SHIFT" key, of 1.75 units.
+	* "SPACE" bar of 7 units, (the original is 9 units, completely out of today's standard,
+	or at least I haven't been able to find anything of that size). This forces you to center 	the "SPACE" bar and reposition the "CTRL" key.
 
 
 For all these details, this PCB would NOT fit into the housing of an original CPC 464. Or, at least, it wouldn't fit like a glove like the original keyboard. The fixing holes are also not intended to be used with the original housing.
@@ -240,7 +237,7 @@ Still, could it be used in an original CPC 464?
 
 The connector that goes to the main PCB is the one needed for the version recreated by Bob's Bits, which as I said, is like the first "High Keys" models: with a 20-pin connector in a single line, while the later versions have two lines of "flex" type bands.
 
-All of this means that if you're using it on a CPC 464 "High Keys" board, it will work electrically (even if it doesn't fit into the case). But, if you are going to use them on one of the later boards (I haven't done it), with a connector in two "flex" lines, it would be necessary to make an adapter between both connectors. In this case it would be a matter of seeing where each contact goes on the single line 20 pin connector, or "20x1" to redirect it where it needs to be on the 2 line "flex" connectors. But it is something that I, I repeat, have not tried.
+All of this means that if you're using it on a CPC 464 "High Keys" board, it will work electrically (even if it doesn't fit into the case). But, if you are going to use them on one of the later boards (I haven't done it), with a connector in two "flex" lines, it would be necessary to make an adapter between both connectors. In this case it would be a matter of seeing where each track goes on the single line 20 pin connector, or "20x1" to redirect it where it needs to be on the 2 line "flex" connectors. But it is something that, I repeat, I have not tried.
 
 To make it.
 
@@ -277,7 +274,7 @@ NOTE: I have used keys with XDA profile, the reason? Take a look at this scheme:
 
 The keys with an XDA profile, unlike many other keys, can be swapped between rows on the keyboard. This means that a key that should go, for example, in row 1, can be placed in, for example, row 4 without any aesthetic differences. XDA keys have the same profile, height and shape, and are even symmetrical horizontally and vertically, and can also be rotated or placed "upside down" if necessary.
 
-This may not seem relevant, but it is RELEVANT and so much, since the standard keys that can be purchased today are designed for PC. In addition, the Amstrad CPC has a different keyboard map with several punctuation marks that do not match (without going into differences between languages of both PC keyboards and Amstrad CPC keyboards), so it is necessary to move keys between rows adapting as much as possible to the keyboard map that you put to the CPC464 (which will depend on the ROM that the main PCB has).
+This may not seem relevant, but it is RELEVANT and so much, since the standard keys that can be purchased today are designed for PC. In addition, the Amstrad CPC has a different keyboard map with several punctuation marks that don´t match (without going into differences between languages of both PC keyboards and Amstrad CPC keyboards), so it is necessary to move keys between rows adapting as much as possible to the keyboard map that you put to the CPC464 (which will depend on the ROM that the main PCB has).
 
 The distribution and measurements of the keys to which you should pay more attention, because they are larger than 1 unit, or because they have undergone a change in size with respect to the original, is as follows:
 
