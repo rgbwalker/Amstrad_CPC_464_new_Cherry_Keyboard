@@ -138,6 +138,16 @@ https://es.aliexpress.com/item/1005007462247870.html?spm=a2g0o.order_list.order_
 
 https://es.aliexpress.com/item/1005007032334210.html?spm=a2g0o.order_list.order_list_main.28.74c7194dZw9qxL&gatewayAdapt=glo2esp
 
+# Versiones:
+
+
+- V1.0. 09/02/2025.
+	* Primera version pública.
+
+- V1.2. 04/03/2025.
+	* Añadida nueva huella del conector 20pin THT (CP002, cable Dupont a la PCB principal) se mantiene la huella del conector SMD para que el usuario pueda elegir cual de ambas soldar.
+ 	* Recolocado de orificios de fijacción de manera mas conveniente, se añade alguno nuevo.
+  	* Se añade serigrafia con creditos del proyecto.
 
 # Agradecimientos:
 
