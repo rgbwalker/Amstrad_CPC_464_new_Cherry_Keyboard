@@ -148,8 +148,7 @@ https://es.aliexpress.com/item/1005007032334210.html?spm=a2g0o.order_list.order_
  	* Recolocado de orificios de fijacción de manera mas conveniente, se añade alguno nuevo.
   	* Se añade serigrafia con creditos del proyecto.
 
-
-![image](/_IMAGENES_/Teclado_PCB_V1_2_001.png)
+![image](/_IMAGENES_/Dupont_20pin_H_H.jpg)
 
 
 # Agradecimientos:
