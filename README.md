@@ -144,8 +144,8 @@ https://es.aliexpress.com/item/1005007032334210.html?spm=a2g0o.order_list.order_
 	* Primera version pública.
 
 - V1.2. 04/03/2025.
-	* Añadida nueva huella del conector 20pin THT (CP002, cable Dupont a la PCB principal) se mantiene la huella del conector SMD para que el usuario pueda elegir cual de ambas soldar.
- 	* Recolocado de orificios de fijacción de manera mas conveniente, se añade alguno nuevo.
+	* Añadida nueva huella del conector 20pin THT (CP002, cable Dupont a la PCB principal) se mantiene la huella del conector SMD, el usuario puede elegir cual de ambas soldar.
+ 	* Recolocado de orificios de fijación de manera mas conveniente, se añade uno nuevo.
   	* Se añade serigrafia con creditos del proyecto.
 
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_001.PNG)
@@ -155,7 +155,6 @@ https://es.aliexpress.com/item/1005007032334210.html?spm=a2g0o.order_list.order_
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_004.PNG)
 
 # Agradecimientos:
-
 
 Aunque han sido nombrados a lo largo de este texto, me gustaría reunirlos aquí.
 
@@ -315,6 +314,21 @@ https://es.aliexpress.com/item/1005007462247870.html?spm=a2g0o.order_list.order_
 
 ![image](/_IMAGENES_/Dupont_20pin_H_H.jpg)
 
+# Versions:
+
+- V1.0. 09/02/2025.
+	* First public release.
+
+- V1.2. 04/03/2025.
+	* Added new THT footprint for the 20pin connector (CP002, Dupont cable to the main PCB) keeps the SMD footprint, so the user can choose which of the two to solder.
+ 	* Repositioning of fixing holes in a better way, a new one is added.
+  	* Silkscreen added with project credits.
+
+![image](/_IMAGENES_/Teclado_PCB_V1_2_001.PNG)
+![image](/_IMAGENES_/Teclado_PCB_V1_2_002.PNG)
+![image](/_IMAGENES_/Teclado_PCB_V1_2_003.PNG)
+![image](/_IMAGENES_/Teclado_PCB_V1_2_005.PNG)
+![image](/_IMAGENES_/Teclado_PCB_V1_2_004.PNG)
 
 # Thanks:
 
