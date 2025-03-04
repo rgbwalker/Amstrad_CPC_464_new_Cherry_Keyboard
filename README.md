@@ -149,7 +149,10 @@ https://es.aliexpress.com/item/1005007032334210.html?spm=a2g0o.order_list.order_
   	* Se añade serigrafia con creditos del proyecto.
 
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_001.PNG)
-
+![image](/_IMAGENES_/Teclado_PCB_V1_2_002.PNG)
+![image](/_IMAGENES_/Teclado_PCB_V1_2_003.PNG)
+![image](/_IMAGENES_/Teclado_PCB_V1_2_005.PNG)
+![image](/_IMAGENES_/Teclado_PCB_V1_2_004.PNG)
 
 # Agradecimientos:
 
