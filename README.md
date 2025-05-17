@@ -151,6 +151,7 @@ https://es.aliexpress.com/item/1005007032334210.html?spm=a2g0o.order_list.order_
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_005.PNG)
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_004.PNG)
 
+
 - V1.0. 09/02/2025.
 	* Primera version pública.
 
@@ -318,9 +319,6 @@ https://es.aliexpress.com/item/1005007462247870.html?spm=a2g0o.order_list.order_
 
 # Versions:
 
-- V1.0. 09/02/2025.
-	* First public release.
-
 - V1.2. 04/03/2025.
 	* Added new THT footprint for the 20pin connector (CP002, Dupont cable to the main PCB) keeps the SMD footprint, so the user can choose which of the two to solder.
  	* Repositioning of fixing holes in a better way, a new one is added.
@@ -331,6 +329,10 @@ https://es.aliexpress.com/item/1005007462247870.html?spm=a2g0o.order_list.order_
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_003.PNG)
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_005.PNG)
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_004.PNG)
+
+
+- V1.0. 09/02/2025.
+	* First public release.
 
 # Thanks:
 
