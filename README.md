@@ -144,15 +144,15 @@ https://es.aliexpress.com/item/1005007032334210.html?spm=a2g0o.order_list.order_
 	* Añadida nueva huella del conector 20pin THT (CP002, cable Dupont a la PCB principal) se mantiene la huella del conector SMD, el usuario puede elegir cual de ambas soldar.
  	* Recolocado de orificios de fijación de manera mas conveniente, se añade uno nuevo.
   	* Se añade serigrafia con creditos del proyecto.
- 
-- V1.0. 09/02/2025.
-	* Primera version pública.
 
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_001.PNG)
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_002.PNG)
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_003.PNG)
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_005.PNG)
 ![image](/_IMAGENES_/Teclado_PCB_V1_2_004.PNG)
+
+- V1.0. 09/02/2025.
+	* Primera version pública.
 
 # Agradecimientos:
 
